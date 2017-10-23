@@ -1,0 +1,6 @@
+print('\033[0;30;41mTyrone')
+print('\033[4;33;44mTyrone')
+print('\033[1;35;43mTyrone')
+print('\033[30;42mTyrone')
+print('\033[mTyrone')
+print('\033[7;30mTyrone')
